@@ -1,0 +1,9 @@
+C:\Users\MrFree\Desktop\epam\TaskModule#3\SortByIndexOfLibrary\SortByIndexOfLibrary\bin\Debug\netcoreapp3.1\SortByIndexOfLibrary.deps.json
+C:\Users\MrFree\Desktop\epam\TaskModule#3\SortByIndexOfLibrary\SortByIndexOfLibrary\bin\Debug\netcoreapp3.1\SortByIndexOfLibrary.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#3\SortByIndexOfLibrary\SortByIndexOfLibrary\bin\Debug\netcoreapp3.1\SortByIndexOfLibrary.pdb
+C:\Users\MrFree\Desktop\epam\TaskModule#3\SortByIndexOfLibrary\SortByIndexOfLibrary\obj\Debug\netcoreapp3.1\SortByIndexOfLibrary.csproj.AssemblyReference.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#3\SortByIndexOfLibrary\SortByIndexOfLibrary\obj\Debug\netcoreapp3.1\SortByIndexOfLibrary.AssemblyInfoInputs.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#3\SortByIndexOfLibrary\SortByIndexOfLibrary\obj\Debug\netcoreapp3.1\SortByIndexOfLibrary.AssemblyInfo.cs
+C:\Users\MrFree\Desktop\epam\TaskModule#3\SortByIndexOfLibrary\SortByIndexOfLibrary\obj\Debug\netcoreapp3.1\SortByIndexOfLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MrFree\Desktop\epam\TaskModule#3\SortByIndexOfLibrary\SortByIndexOfLibrary\obj\Debug\netcoreapp3.1\SortByIndexOfLibrary.dll
+C:\Users\MrFree\Desktop\epam\TaskModule#3\SortByIndexOfLibrary\SortByIndexOfLibrary\obj\Debug\netcoreapp3.1\SortByIndexOfLibrary.pdb
